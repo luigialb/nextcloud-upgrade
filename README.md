@@ -15,7 +15,7 @@
 
 | # | Document | Description |
 |---|----------|-------------|
-| 00 | [Index](00-Index.md) | Master index of all documentation |
+| 00 | [Index](./docs/00-Index.md) | Master index of all documentation |
 | 01 | [Repository Access Policy](01-Repository-Access-Policy.md) | NDA, permissions, access control |
 | 02 | [Security Policy](02-Security-Policy.md) | Secrets, keys, 2FA, Git rules |
 | 03 | [Developer Onboarding](03-Developer-Onboarding.md) | Setup steps for new developers |
